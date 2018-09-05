@@ -1,0 +1,20 @@
+1536135667389	geckodriver	INFO	geckodriver 0.21.0
+1536135667440	geckodriver	INFO	Listening on 127.0.0.1:63939
+1536135670412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mmadhu\\AppData\\Local\\Temp\\rust_mozprofile.YDz50iCgi0Cq"
+1536135677651	Marionette	INFO	Listening on port 63948
+1536135677754	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\mmadhu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\mmadhu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\mmadhu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\mmadhu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\mmadhu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 3036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
